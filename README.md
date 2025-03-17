@@ -11,8 +11,6 @@ Predictive Modeling: Uses machine learning algorithms to forecast stock prices.
 
 Visualization: Generates graphical representations of stock trends and predictions.
 
-User-Friendly Interface: Simple and interactive design for ease of use.
-
 Data Preprocessing: Cleans and normalizes data to improve model accuracy.
 
 Technologies Used
